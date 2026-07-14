@@ -1,1 +1,1 @@
-<h1>Live:https://pixgallery-lyart.vercel.app/</h1>
+<a src="https://pixgallery-lyart.vercel.app/">Live</a>
